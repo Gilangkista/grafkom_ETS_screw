@@ -30227,7 +30227,7 @@ var lines = [
 0.0065901, -0.0203054, -0.2661669,
 ];
 
-var screwColor = [0.3, 0.3, 0.35]; // RGB untuk warna Gunmetal
+var screwColor = [0.3, 0.3, 0.35]; 
 var colors = new Array(vertices.length / 3).fill(screwColor).flat();
 
 var indices = [
